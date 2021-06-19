@@ -1,0 +1,22 @@
+{
+  "name": "selfservice_client",
+  "version": "0.0.0",
+  "description": "client to self service app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermefrancisco/SelfService.git"
+  },
+  "keywords": [
+    "guilherme123"
+  ],
+  "author": "Guilherme Francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermefrancisco/SelfService/issues"
+  },
+  "homepage": "https://github.com/guilhermefrancisco/SelfService#readme"
+}
